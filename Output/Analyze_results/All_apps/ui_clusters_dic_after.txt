@@ -1,0 +1,13 @@
+303635 0 0******223687 0 0******0.73669 0.0 0.0******428 0 0******0.00191 0.0 0.0******186 0 0******0.00083 0.0 0.0******0.43357 0.0 0.0******3.49586 0 0******2.89019 0 0******0.17325 0 0******1.24731 0 0******0.6432 0 0******0.56843 0 0
+Specific_apps_origi_words: ui interface design layout gui ux clunky redesign aesthetic navigation usability desing sleek appearance aesthetically intuitive minimalistic ugly slick graphic unintuitive
+Specific_apps_remove_words: 
+Specific_apps_final_words: ui interface design layout gui ux clunky redesign aesthetic navigation usability desing sleek appearance aesthetically intuitive minimalistic ugly slick graphic unintuitive
+Specific_apps_iTunes_origi_words: ui interface design layout gui ux clunky redesign aesthetic navigation usability desing sleek appearance aesthetically intuitive minimalistic ugly slick graphic unintuitive
+Specific_apps_iTunes_remove_words: 
+Specific_apps_iTunes_final_words: ui interface design layout gui ux clunky redesign aesthetic navigation usability desing sleek appearance aesthetically intuitive minimalistic ugly slick graphic unintuitive
+Specific_apps_microsoft_origi_words: ui interface design layout gui ux clunky redesign aesthetic navigation usability desing sleek appearance aesthetically intuitive minimalistic ugly slick graphic unintuitive
+Specific_apps_microsoft_remove_words: 
+Specific_apps_microsoft_final_words: ui interface design layout gui ux clunky redesign aesthetic navigation usability desing sleek appearance aesthetically intuitive minimalistic ugly slick graphic unintuitive
+WeChat******89205******38042******0.42646******74******0.00195******41******0.00108******0.55405******3.44251******2.47297******0.28164******1.17073******0.65992******0.52659
+WeChat******204922******181757******0.88696******312******0.00172******134******0.00074******0.42949******3.50768******2.91987******0.16758******1.26866******0.63832******0.56551
+WeChat******9508******3888******0.40892******42******0.0108******11******0.00283******0.2619******3.46553******3.40476******0.01754******1.27273******0.63275******0.62619

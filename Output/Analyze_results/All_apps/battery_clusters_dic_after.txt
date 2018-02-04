@@ -1,0 +1,13 @@
+303635 0 0******223687 0 0******0.73669 0.0 0.0******360 0 0******0.00161 0.0 0.0******196 0 0******0.00088 0.0 0.0******0.54294 0.0 0.0******3.49586 0 0******2.41667 0 0******0.30871 0 0******1.28061 0 0******0.63368 0 0******0.47009 0 0
+Specific_apps_origi_words: battery drain usage consumption overheat drainer consume cpu power ram hog electricity drainage charger batter standby discharge energy deplete memory foreground
+Specific_apps_remove_words: cpu ram memory foreground
+Specific_apps_final_words: battery drain usage consumption overheat drainer consume power hog electricity drainage charger batter standby discharge energy deplete
+Specific_apps_iTunes_origi_words: battery drain usage consumption overheat drainer consume cpu power ram hog electricity drainage charger batter standby discharge energy deplete memory foreground
+Specific_apps_iTunes_remove_words: cpu ram memory foreground
+Specific_apps_iTunes_final_words: battery drain usage consumption overheat drainer consume power hog electricity drainage charger batter standby discharge energy deplete
+Specific_apps_microsoft_origi_words: battery drain usage consumption overheat drainer consume cpu power ram hog electricity drainage charger batter standby discharge energy deplete memory foreground
+Specific_apps_microsoft_remove_words: cpu ram memory foreground
+Specific_apps_microsoft_final_words: battery drain usage consumption overheat drainer consume power hog electricity drainage charger batter standby discharge energy deplete
+WeChat******89205******38042******0.42646******114******0.003******72******0.00189******0.63158******3.44251******2.25439******0.34513******1.375******0.60058******0.39008
+WeChat******204922******181757******0.88696******204******0.00112******105******0.00058******0.51471******3.50768******2.47549******0.29427******1.19048******0.66061******0.51909
+WeChat******9508******3888******0.40892******42******0.0108******19******0.00489******0.45238******3.46553******2.57143******0.258******1.42105******0.58995******0.44737

@@ -1,0 +1,13 @@
+303635 0 0******223687 0 0******0.73669 0.0 0.0******174 0 0******0.00078 0.0 0.0******124 0 0******0.00055 0.0 0.0******0.70857 0.0 0.0******3.49586 0 0******2.01724 0 0******0.42296 0 0******1.06452 0 0******0.69549 0 0******0.47229 0 0
+Specific_apps_origi_words: spam spammer spammed spamming scammer unsolicited harassment unwanted flood bot bombard porn junk scam nudity block advertisement pornography popups scraper hacker
+Specific_apps_remove_words: 
+Specific_apps_final_words: spam spammer spammed spamming scammer unsolicited harassment unwanted flood bot bombard porn junk scam nudity block advertisement pornography popups scraper hacker
+Specific_apps_iTunes_origi_words: spam spammer spammed spamming scammer unsolicited harassment unwanted flood bot bombard porn junk scam nudity block advertisement pornography popups scraper hacker
+Specific_apps_iTunes_remove_words: 
+Specific_apps_iTunes_final_words: spam spammer spammed spamming scammer unsolicited harassment unwanted flood bot bombard porn junk scam nudity block advertisement pornography popups scraper hacker
+Specific_apps_microsoft_origi_words: spam spammer spammed spamming scammer unsolicited harassment unwanted flood bot bombard porn junk scam nudity block advertisement pornography popups scraper hacker
+Specific_apps_microsoft_remove_words: 
+Specific_apps_microsoft_final_words: spam spammer spammed spamming scammer unsolicited harassment unwanted flood bot bombard porn junk scam nudity block advertisement pornography popups scraper hacker
+WeChat******89205******38042******0.42646******22******0.00058******16******0.00042******0.72727******3.44251******1.95455******0.43223******1.125******0.6732******0.42442
+WeChat******204922******181757******0.88696******151******0.00083******107******0.00059******0.70861******3.50768******2.03311******0.42038******1.05607******0.69893******0.48056
+WeChat******9508******3888******0.40892******1******0.00026******1******0.00026******1.0******3.46553******1.0******0.71144******1.0******0.71144******0.0

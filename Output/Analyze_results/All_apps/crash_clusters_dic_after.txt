@@ -1,0 +1,13 @@
+303635 0 0******223687 0 0******0.73669 0.0 0.0******2069 0 0******0.00925 0.0 0.0******1343 0 0******0.006 0.0 0.0******0.64879 0.0 0.0******3.49586 0 0******2.13968 0 0******0.38794 0 0******1.21072 0 0******0.65367 0 0******0.43416 0 0
+Specific_apps_origi_words: crash freeze foreclose lag crush stall close shut laggy glitching glitch hang load stucks startup buffer open laggs freez glitchy buggy
+Specific_apps_remove_words: 
+Specific_apps_final_words: crash freeze foreclose lag crush stall close shut laggy glitching glitch hang load stucks startup buffer open laggs freez glitchy buggy
+Specific_apps_iTunes_origi_words: crash freeze foreclose lag crush stall close shut laggy glitching glitch hang load stucks startup buffer open laggs freez glitchy buggy
+Specific_apps_iTunes_remove_words: 
+Specific_apps_iTunes_final_words: crash freeze foreclose lag crush stall close shut laggy glitching glitch hang load stucks startup buffer open laggs freez glitchy buggy
+Specific_apps_microsoft_origi_words: crash freeze foreclose lag crush stall close shut laggy glitching glitch hang load stucks startup buffer open laggs freez glitchy buggy
+Specific_apps_microsoft_remove_words: 
+Specific_apps_microsoft_final_words: crash freeze foreclose lag crush stall close shut laggy glitching glitch hang load stucks startup buffer open laggs freez glitchy buggy
+WeChat******89205******38042******0.42646******537******0.01412******383******0.01007******0.71322******3.44251******1.96276******0.42985******1.23499******0.64125******0.37079
+WeChat******204922******181757******0.88696******1437******0.00791******907******0.00499******0.63118******3.50768******2.19485******0.37427******1.18853******0.66116******0.45849
+WeChat******9508******3888******0.40892******95******0.02443******53******0.01363******0.55789******3.46553******2.30526******0.3348******1.41509******0.59167******0.38615

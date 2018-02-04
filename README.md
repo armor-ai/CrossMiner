@@ -1,8 +1,8 @@
 # CrossMiner
 Release code for our ISSRE'16 paper: Experience Report: Understanding Cross-Platform App Issues from User Reviews. http://ieeexplore.ieee.org/document/7774515/
-The highlight is the method is that it can accurately find similar words to one topic based on word embeddings and k-clustering. We mainly run experiments related to seven topics/issue types: `battery`, `crash`, `memory`, `network`, `privacy`, `spam`, and `UI`.
+The highlight is the method which can accurately find similar words to one topic based on word embeddings and k-clustering. We mainly run experiments related to seven topics/issue types: `battery`, `crash`, `memory`, `network`, `privacy`, `spam`, and `UI`.
 
-We automatically detect the proportion of user feedback to each issue type, and prioritize them accordingly.
+We automatically detect the proportion of user feedback of each issue type, and prioritize them accordingly.
 
 ## Input
 An example input is given in the folder `Input`. The three folders correspond to three platforms, i.e., Google Play, App Store, and Winphone Store.
@@ -26,7 +26,7 @@ Spam | spam, spammer, scammer, unsolicited, harassment, unwanted, bot, bombard, 
 UI | ui, interface, design, layout, gui, ux, clunky, redesign, aesthetic, navigation, usability, desing, sleek, appearance, aesthetically, intuitive, minimalistic, ugly, slick, graphic, unintuitive
 
 ## Result Explanation
-The proportions of each issue among user reviews are saved in `Output/Analyze_results`. The first line is the total statistics, and the last three lines correspond to the three platforms.
+The proportions of each issue among user reviews are saved in `Output/Analyze_results`. The first line is the total statistics, and the last three lines correspond to the statistics of three platforms.
 
 `example******89205******38042******0.42646******114******0.003******72******0.00189******0.63158******3.44251******2.25439******0.34513******1.375******0.60058******0.39008`
 indicate:
